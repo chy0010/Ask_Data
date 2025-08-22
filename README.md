@@ -1,4 +1,4 @@
-**Ask Data – Retrieval-Augmented Generation (RAG) 📂🤖
+**Ask Data – Retrieval-Augmented Generation (RAG)** 📂🤖
 
 Ask Data is a Retrieval-Augmented Generation (RAG) project that lets you query your documents and datasets in plain English. 
 Instead of manually searching PDFs or writing SQL, you can just ask a question, and the system retrieves relevant information and generates a clear answer using a Large Language Model (LLM).
